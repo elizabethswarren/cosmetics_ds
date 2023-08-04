@@ -12,6 +12,12 @@ Additional data from Kaggle was added to ensure that products that do not contai
    * Determine features that could determine whether a product will contain a hazardous ingredient.
    * Build a model that can accurately predict if a product contains a hazardous ingredient.
 
+## Steps to Reproduce:
+   * Download the csv from CDPH at https://catalog.data.gov/dataset/chemicals-in-cosmetics-7d6ab.
+   *  Download the csv from Kaggle at https://www.kaggle.com/datasets/kingabzpro/cosmetics-datasets.
+   * Put the data in the same file as the cloned repo.
+   * Run the final_notebook.
+   
 ## Acquire
 * Data acquired from California Department of Public Health (CDPH) and Kaggle.com
 * Two separate dataframes are acquired before cleaning
